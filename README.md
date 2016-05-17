@@ -7,6 +7,8 @@ In order to use this, Postman must be installed. For information on how to get s
 ## Install/Import
 In Postman, click **Import** and either upload the file *ItemSense.postman_collection*, or provide it the direct url to the file within github. 
 
+![Import Demo](https://media.giphy.com/media/qqqsnk5CGPMMo/giphy.gif)
+
 ## Configuration
 The collection uses a few default values that are configured as environment variables:
 
