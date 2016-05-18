@@ -16,7 +16,7 @@ The collection uses a few default values that are configured as environment vari
 - BASE_URL : This is the hostname where your itemsense instance lives.
 - Authorization: This is setup in the request headers. Currently it is configured with the out of the box admin account for ItemSense. If the authorization is updated, maked sure to click **Save**, so that it overwrites the existing stored value.
 
-### Environment Variable Update: 
+### BASE_URL Update: 
 
 ![Configuration Demo](http://g.recordit.co/ACJjlphSZA.gif)
 
